@@ -36,3 +36,6 @@
 
 # Obj dir
 */obj/*
+
+# Ignore VSCode dir
+*/.vscode/*
