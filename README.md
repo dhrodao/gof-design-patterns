@@ -16,7 +16,11 @@ to vary the class that's instantiated, whereas an object creational pattern will
 |Prototype|Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.|
 |Singleton|Ensure a class only has one instance, and provide a global point ofaccess to it.|
 
-* Structural Patterns: they work with the attributes if an object.
+* Structural Patterns: are concerned with how classes and objects are composed to form larger structures.
+
+|Design Pattern|Description|
+|---|---|
+|Adapter|Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.|
 
 * Behavioral Patterns: there is not a concrete scope for this group. These Patterns
 implement the logic for some sort of manipulation that we want to do with an object.

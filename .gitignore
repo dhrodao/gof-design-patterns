@@ -39,3 +39,6 @@
 
 # Ignore VSCode dir
 */.vscode/*
+
+# Ignore binaries
+main
