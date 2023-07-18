@@ -21,6 +21,7 @@ to vary the class that's instantiated, whereas an object creational pattern will
 |Design Pattern|Description|
 |---|---|
 |Adapter|Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.|
+|Bridge|Decouple an abstraction from its implementation so that the two can vary independently.|
 
 * Behavioral Patterns: there is not a concrete scope for this group. These Patterns
 implement the logic for some sort of manipulation that we want to do with an object.
